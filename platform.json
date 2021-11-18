@@ -27,7 +27,7 @@
     },
     "tool-stcgal": {
       "type": "uploader",
-      "version": "https://github.com/nrife/stcgal.git"
+      "version": "https://github.com/guet1024/stcgal.git"
     }
   }
 }
