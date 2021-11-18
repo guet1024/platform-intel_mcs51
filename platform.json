@@ -28,9 +28,6 @@
     "tool-stcgal": {
       "type": "uploader",
       "version": "https://github.com/guet1024/stcgal.git"
-    },
-    "tqdm": {
-      "version": " https://github.com/guet1024/tqdm.git"
     }
   }
 }
